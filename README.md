@@ -18,7 +18,7 @@
 # CA2-AdvancedData-BigData
 this is readMe of CA2-AdvancedData-BigData
 # Project Title
-Neural Network Research in Advanced Data Analytics & Big Data Storage and Processing 
+CA2 - Neural Network Research in Advanced Data Analytics & Big Data Storage and Processing 
 
 # A short description of your project.
 This project features a neural network model designed to assist TWITTER in improving their business by analyzing customer reviews and feedback. 
